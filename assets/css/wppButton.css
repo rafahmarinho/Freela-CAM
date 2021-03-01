@@ -1,0 +1,26 @@
+.botao-wpp {
+    text-decoration: none;
+    color: #ffffff;
+    display: inline-block;
+    background-color: #25d366;
+    font-weight: bold;
+    padding: 1rem 2rem;
+    border-radius: 3px;
+  }
+  
+  .botao-wpp:hover {
+    transition: 0.7s;
+    background-color: #ffffff;
+    color: #25d366;
+  }
+  
+  .botao-wpp:focus {
+    background-color: darken(#25d366, 15%);
+  }
+
+  .button-align{
+    display:flex;
+    justify-content: center;
+    margin: 15px
+  }
+  
